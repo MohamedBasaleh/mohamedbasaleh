@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Back-End devlover 🚀</h3>
 
 <img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png">
-![My GitHub Contributions 2025](./contributions-2025.png)
+
 ### 💻 most used tech
 
 - Ruby On Rails ❤
